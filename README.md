@@ -6,7 +6,7 @@ Welcome to the Yacine TV APK repository.
 
 ## About
 
-Yacine TV APK is a streaming application that provides access to sports and entertainment content. This repository shares guides, installation information, app updates, features, and helpful resources for users. https://yacinetvapks.net/
+Yacine TV APK is a streaming application that provides access to sports and entertainment content. This repository shares guides, installation information, app updates, features, and helpful resources for users. 
 
 ## Features
 
@@ -18,7 +18,7 @@ Yacine TV APK is a streaming application that provides access to sports and ente
 
 ## Website
 
-https://your-website.com
+[Yacine TV Player APK Latest Version](https://yacinetvapks.net/)
 
 ## Disclaimer
 
